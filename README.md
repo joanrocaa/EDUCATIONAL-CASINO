@@ -88,7 +88,7 @@ This project was developed collaboratively as a university software engineering 
 
 The original team repository can be found here:
 
-[[Link to original repository](https://github.com/UCM-FDI-DISIA/proyectois1-thatwasepic)
+[Link to original repository](https://github.com/UCM-FDI-DISIA/proyectois1-thatwasepic)
 
 This personal repository contains the same project with an improved README and documentation for portfolio purposes.
 
@@ -183,5 +183,3 @@ Proyecto desarrollado de forma colaborativa como práctica universitaria utiliza
 El repositorio original del equipo se encuentra aquí:
 
 [Enlace al repositorio original](https://github.com/UCM-FDI-DISIA/proyectois1-thatwasepic)
-po=UCM-FDI-DISIA/proyectois1-thatwasepic" height="50px"/>
-</a>
